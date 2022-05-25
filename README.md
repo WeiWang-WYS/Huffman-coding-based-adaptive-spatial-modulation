@@ -1,6 +1,6 @@
 # HuffmanCoding
 
-Part of the source code for Wei Wang and Wei Zhang "Huffman coding-based adaptive spatial modulation", IEEE TWC, 2017, which was requested by some researhcers. 
+Part of the source code for Wei Wang and Wei Zhang "Huffman coding-based adaptive spatial modulation", IEEE TWC, 2017, which was requested by some researchers. 
 
 
 Run MainSearch.m to get Fig.7
